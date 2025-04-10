@@ -35,3 +35,12 @@ This is a short-selling bot that uses momentum ROC and volume spikes to decide w
 - You are solely responsible for configuring, running, and securing your Binance account and API keys.
 - The bot’s performance depends on external factors such as internet connectivity, the stability of the exchange's API, and market behavior, which are beyond the author's control.
 - If you do not fully understand the risks involved, do not use this bot.
+
+
+## 💸 Support This Project
+- If you find this project useful or want to support its development, you can contribute by sending a donation. Every contribution helps keep the project alive and growing!
+- **🔗 Binance Pay - ID:** ByyBot
+
+![Binance Pay](./ByyBot.jfif)
+
+Thank you for your support! 🚀
